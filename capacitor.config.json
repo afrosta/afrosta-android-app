@@ -1,0 +1,10 @@
+{
+  "appId": "live.afrosta.app",
+  "appName": "Afrosta Live",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "server": {
+    "url": "https://afrosta.live/",
+    "cleartext": true
+  }
+}

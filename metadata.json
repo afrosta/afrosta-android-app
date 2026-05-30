@@ -1,0 +1,6 @@
+{
+  "name": "WebToAndroid Studio",
+  "description": "An interactive workspace to configure, package, and automate compiling any web application into a Google Play Store-compatible Android App Bundle (.aab).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
